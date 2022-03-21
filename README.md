@@ -1,2 +1,2 @@
 # Tiny-Compiler
-Compiler Theory course project 2021
+An implementation for the Tiny language compiler
