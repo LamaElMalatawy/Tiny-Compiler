@@ -5,7 +5,6 @@ An implementation for the Tiny language compiler
 <ul>
   <li>Lexical Analysis phase 
   <li>Syntax Analysis phase
-    
 </ul>
 
 <h3> Acknowledgment </h3>
@@ -16,5 +15,4 @@ An implementation for the Tiny language compiler
   <li> <a href="https://github.com/Rana-Rabie">Rana Rabie</a>
   <li> <a href="https://github.com/nurhaankhaled">Nurhan Khaled</a> 
   <li> <a href="https://github.com/yasminFadel">Yasmin Fadel</a>
-  
 </ul>
