@@ -3,7 +3,6 @@ An implementation for the Tiny language compiler
 
 <h3> What's Done: </h3>
 <ul>
-  <li>
   <li>Lexical Analysis phase 
   <li>Syntax Analysis phase
     
